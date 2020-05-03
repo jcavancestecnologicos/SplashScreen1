@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="colorDuolingo">#5FCB04</color>
+    <color name="colorSkype">#0178D4</color>
+    <color name="colorPaypal">#002C8A</color>
+    <color name="colorWhite">#fff</color>
+</resources>
